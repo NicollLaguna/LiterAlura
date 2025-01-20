@@ -63,9 +63,9 @@ Feel free to fork the repository and submit pull requests. If you encounter any 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments 🙏
-Spring Boot for the backend framework
-Jackson for parsing JSON data
-Gutendex API for providing free access to a vast collection of books and literary data
-External APIs for book and author data
+- Spring Boot for the backend framework
+- Jackson for parsing JSON data
+- Gutendex API for providing free access to a vast collection of books and literary data
+- External APIs for book and author data
 ---
 Enjoy exploring the world of literature with LiterAlura! 😊
