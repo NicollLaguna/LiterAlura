@@ -28,22 +28,21 @@ A Java application designed to provide a comprehensive literary search experienc
 1. Clone the repository:
    git clone https://github.com/NicollLaguna/LiterAlura.git
 
-Navigate to the project directory:
-cd LiterAlura
+2. Navigate to the project directory:
+   cd LiterAlura
 
-Install dependencies using Maven or Gradle:
+3. Install dependencies using Maven or Gradle:
+   Maven:
+   mvn install
 
-Maven:
-mvn install
+   Gradle:
+   gradle build
 
-Gradle:
-gradle build
+4. Run the application:
+   mvn spring-boot:run
 
-Run the application:
-mvn spring-boot:run
-
-Or if you’re using Gradle:
-gradle bootRun
+   Or if you’re using Gradle:
+   gradle bootRun
 
 ## How it Works 🔧
 The application connects to the Gutendex API to retrieve data about books, authors, and languages. The API URL used is:
